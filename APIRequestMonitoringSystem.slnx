@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APIRequestMonitoringSystem.App/APIRequestMonitoringSystem.App.csproj" />
+  <Project Path="APIRequestMonitoringSystem.Core/APIRequestMonitoringSystem.Core.csproj" />
+  <Project Path="APIRequestMonitoringSystem.Tests/APIRequestMonitoringSystem.Tests.csproj" />
+</Solution>
